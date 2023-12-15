@@ -1,0 +1,4 @@
+Hello everyone!
+
+I have created this file to push file from local repo to github repo by using linux server
+
